@@ -376,7 +376,7 @@ GCC 中还有一些用于位运算的内建函数：
 
 ## 更多位数
 
-如果需要操作的集合非常大，可以使用 [bitset](../lang/csl/bitset.md) 。
+如果需要操作的集合非常大，可以使用 [`std::bitset`](../lang/csl/bitset.md)。
 
 ## 题目推荐
 
